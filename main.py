@@ -1,6 +1,6 @@
 import telebot
 import language_tool_python
-TOKEN = "8719496821:AAESVxDG92tL96BZVUys65p9JfUnwCMw_W4"
+TOKEN = "токен бла бла бла"
 bot = telebot.TeleBot(TOKEN)
 tool = language_tool_python.LanguageTool('ru-RU') 
 
